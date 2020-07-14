@@ -4,7 +4,7 @@
 
 I have designed a portfolio website that is mobile responsive using the Boostrap CSS Framework.
 
-* Create the following files files: `index.html`, `portfolio.html`, `contact.html` and 'style.css'.
+* Created the following files files: `index.html`, `portfolio.html`, `contact.html` and 'style.css'.
 
 I used the following Bootstrap items:
 
