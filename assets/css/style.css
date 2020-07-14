@@ -33,7 +33,7 @@ body {
 
 /* Portfolio - Main Section Styles*/
 
-.card-title {
+ .card-title {
 	background-color: #cae00f;
 	padding: 20px 30px 20px 30px;
 	color: black;
@@ -42,7 +42,7 @@ body {
 	position: absolute;
 	right: 0px;
 	left: 0px;
-}
+} 
 
 /* footer Styles */
 .footer-section {
